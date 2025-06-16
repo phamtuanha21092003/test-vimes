@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/data
+/logs
+/logs/*
+/logs/**/*
+/logs/**/**/*
+/logs/**/**/**/*
+/logs/**/**/**/**/*
+.env
