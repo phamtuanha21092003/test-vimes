@@ -10,7 +10,7 @@ const app: Express = express()
 
 config(app)
 
-app.use("/sso/v1", apiV1)
+app.use("/api/v1", apiV1)
 
 app.listen(+port, () => {
     console.log(`Server is running on port ${port}`)
